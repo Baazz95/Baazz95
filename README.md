@@ -1,5 +1,5 @@
-Baazz95, Michael Barrett - on a data science course at EC-utbildning!
+Baazz95, Michael Barrett - on a data science course at EC-utbildning.
 
-Currently on an internship with CharpstAR in Nacka.
+Previous experience working on automation and platform development at CharpstAR AB.
 
-Building platform automation using computer vision and AI integration. 
+Currently searching for work in the Stockholm-Uppsala area!
